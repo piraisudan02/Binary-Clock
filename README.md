@@ -1,3 +1,7 @@
+![Screenshot (143)](https://github.com/piraisudan02/Binary-Clock/assets/96645021/2a75972f-99d3-44dd-9143-63bb5749b642)
+![Screenshot (142)](https://github.com/piraisudan02/Binary-Clock/assets/96645021/019d9aa9-02f3-49be-ac9b-a771c495dd7e)
+![Screenshot (141)](https://github.com/piraisudan02/Binary-Clock/assets/96645021/5ea6d0f7-23cf-4f64-9380-8325ae03143d)
+![Screenshot (140)](https://github.com/piraisudan02/Binary-Clock/assets/96645021/c75c7bc1-14a2-43d3-9bf5-cf7c03280a7c)
 # Binary-Clock
 Imports:
 
